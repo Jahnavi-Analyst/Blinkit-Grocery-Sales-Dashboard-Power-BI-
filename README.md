@@ -12,6 +12,7 @@ How pricing affects demand
 Relationship between visibility & sales
 Profitability opportunities
 
+
 **📊 Dashboard Features**
 1️⃣ Sales Overview
 Total Sales
@@ -19,10 +20,12 @@ Average Sales per Outlet
 Total Items
 Outlet Contribution
 
+
 2️⃣ Outlet Performance
 Sales by Outlet Size
 Sales by Location Tier
 Sales by Outlet Type
+
 
 3️⃣ Product Analysis
 Sales by Item Fat Content
@@ -30,10 +33,13 @@ Sales by Item Type
 MRP vs Sales trend
 Item Visibility vs Sales
 
+
 **🧮 Key DAX Measures**
 Total Sales = SUM(Data[sales])
 Average Sales = AVERAGE(Data[sales])
 Total Items = COUNT(Data[item_identifier])
+
+
 
 **📈 Insights**
 Supermarket Type 3 outlets perform the best
