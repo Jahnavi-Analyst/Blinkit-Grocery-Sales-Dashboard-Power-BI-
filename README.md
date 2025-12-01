@@ -19,6 +19,7 @@ Profitability opportunities
 
 
 **📊 Dashboard Features**
+
 1️⃣ Sales Overview
 
 Total Sales
